@@ -2,6 +2,14 @@
 	"name": "many-to-one",
 	"displayName": "Many To One",
 	"description": "Convert multiple continous spaces into a single space",
+	"publisher": "GaneshKumarM",
+	"author": {
+    "name": "Ganesh Kumar M"
+	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/GaneshmKumar/many-to-one.git"
+  },
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.45.0"
